@@ -7,3 +7,10 @@
 - getElementsByClassName
 - getAttribute
 - setAttribute
+
+### chapter4
+- childNodes
+- nodeType
+- nodeValue
+- firstChild
+- lastChild
