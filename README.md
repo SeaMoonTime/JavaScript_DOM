@@ -20,3 +20,11 @@ No Project Existed!
 
 ### chapter6
 Gallery improvement
+
+### chapter7
+- document.write
+- innerHTML
+- createElement
+- createTextNode
+- appendChild
+- insertBefore
