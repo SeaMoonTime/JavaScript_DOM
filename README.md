@@ -28,3 +28,6 @@ Gallery improvement
 - createTextNode
 - appendChild
 - insertBefore
+
+### chapter8
+- Enrich the document with DOM
