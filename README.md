@@ -31,3 +31,7 @@ Gallery improvement
 
 ### chapter8
 - Enrich the document with DOM
+
+
+### chapter9
+CSS-DOM
