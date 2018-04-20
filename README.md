@@ -35,3 +35,6 @@ Gallery improvement
 
 ### chapter9
 CSS-DOM
+
+### chapter10
+Animation
