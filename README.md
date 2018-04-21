@@ -40,4 +40,4 @@ CSS-DOM
 Animation
 
 ### chapter11
-HTML5
+HTML5 Canvas
